@@ -1,5 +1,5 @@
 # bushqueda_walkthrough
-# Busqueda: A Comprehensive Security Assessment
+# Busqueda
 
 **Author:** mursalin  
 **Date:** April 2026  
